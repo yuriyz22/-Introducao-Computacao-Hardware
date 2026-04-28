@@ -1,8 +1,6 @@
-#  Aula 10 – Redes de Computadores
+# Aula 10 – Redes de Computadores
 
----
-
-##  Parte A – Linha do Tempo
+## Parte A – Linha do Tempo
 
 ### Evolução das redes de computadores
 
@@ -29,7 +27,7 @@
 
 ---
 
-##  Parte B – Elementos da Rede
+## Parte B – Elementos da Rede
 
 ### Exemplo prático: acessar um site
 
@@ -45,18 +43,18 @@ O servidor responde enviando os dados da página usando protocolos de comunicaç
 
 ---
 
-##  Parte C – Quadro Comparativo
+## Parte C – Quadro Comparativo
 
-| Tipo de Rede | Significado        | Alcance        | Exemplo                             |
-|--------------|-------------------|----------------|-------------------------------------|
-| PAN          | Rede pessoal      | Poucos metros  | Bluetooth entre celular e fone      |
-| LAN          | Rede local        | Casa ou prédio | Wi-Fi doméstico                     |
-| MAN          | Rede metropolitana| Cidade         | Rede de universidade                |
-| WAN          | Rede ampla        | Global         | Internet                            |
+| Tipo de Rede | Significado         | Alcance         | Exemplo                        |
+|--------------|--------------------|-----------------|--------------------------------|
+| PAN          | Rede pessoal       | Poucos metros   | Bluetooth entre celular e fone |
+| LAN          | Rede local         | Casa ou prédio  | Wi-Fi doméstico                |
+| MAN          | Rede metropolitana | Cidade          | Rede de universidade           |
+| WAN          | Rede ampla         | Global          | Internet                       |
 
 ---
 
-##  Reflexão Individual
+## Reflexão Individual
 
 A evolução das redes de computadores teve um impacto profundo na sociedade, transformando a forma como nos comunicamos, trabalhamos e acessamos informações. No início, os computadores eram isolados e utilizados apenas por grandes instituições. Com o surgimento das redes, especialmente a ARPANET, tornou-se possível compartilhar dados entre diferentes locais.
 
