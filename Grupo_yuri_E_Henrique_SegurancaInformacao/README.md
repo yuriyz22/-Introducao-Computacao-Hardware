@@ -10,3 +10,8 @@ Este repositório apresenta a atividade prática sobre Segurança da Informaçã
 
 ## Tema
 Segurança da Informação: Conceitos, Atributos e Ameaças.
+
+
+ ## Referência
+
+- [O que foi o ataque de ransomware WannaCry? - Cloudflare](https://www.cloudflare.com/pt-br/learning/security/ransomware/wannacry-ransomware/)
