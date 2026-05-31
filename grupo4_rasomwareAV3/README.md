@@ -1,7 +1,7 @@
 # Avaliação 3 – Unidade 5  
 ## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
-### Grupo 3 - Infográfico sobre Malwares - Victor Eduardo Lima de Castro
+### Grupo 4 - Cartilha rasomware - Yuri Marques, Igor Gonçalves, Henrique Mota
 
 ###  1. Ameaça escolhida  
 
